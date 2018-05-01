@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Course"},{"p":"<Unnamed>","l":"CourseList"},{"p":"<Unnamed>","l":"CourseList.CourseNode"},{"p":"<Unnamed>","l":"DirectlyRelatable"},{"p":"<Unnamed>","l":"EnrolmentResult"}]
