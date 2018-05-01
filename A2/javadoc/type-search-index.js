@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"package2","l":"Culturalfiesta"},{"p":"package1","l":"Event"},{"p":"package3","l":"Fair"},{"p":"package3","l":"Fair.Type"},{"p":"package2","l":"Festival"},{"p":"Main","l":"Main"},{"p":"package2","l":"Musicfiesta"},{"p":"package4","l":"SportCompetition"},{"p":"package4","l":"SportCompetition.Season"}]
