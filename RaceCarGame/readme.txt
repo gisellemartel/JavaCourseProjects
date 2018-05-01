@@ -1,0 +1,2 @@
+This assignment was the final project completed for the course Object-Oriented
+Programming I (Java). There are two driver programs, which both use the Car class. Each driver is a variation of a command line racing game. 
